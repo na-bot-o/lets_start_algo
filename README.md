@@ -1,7 +1,7 @@
 ## Let's start algorithm
 
 
-This repository implements algorithm written in (Let's start algorithm)[https://book.impress.co.jp/books/3201] by Golang
+This repository implements algorithm written in [Let's start algorithm](https://book.impress.co.jp/books/3201) by Golang
 
 
 ### Install
