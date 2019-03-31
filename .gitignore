@@ -1,7 +1,2 @@
-/lsalgo
-/searchalgo
-/search
-/sortalgo
-/sort
-!/search/*
-!/sort/*
+/search/search
+/sort/sort
