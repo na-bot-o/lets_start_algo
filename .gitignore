@@ -3,3 +3,5 @@
 /search
 /sortalgo
 /sort
+!/search/*
+!/sort/*
